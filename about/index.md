@@ -2,7 +2,7 @@
 layout: page
 title: What are OSM Stories?
 navid: About
-excerpt: "How OSM is used in the wild."
+excerpt: "How institutions are using OpenStreetMap"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: about_feature.jpg
